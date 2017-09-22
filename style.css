@@ -13,6 +13,7 @@ h2 {
   text-align: center
 }
 
-.auto {
-  background-color: black
+body {
+  background-color: black;
+  text-align: center;
 }
