@@ -24,3 +24,9 @@ body {
   font-weight: 300;
   font-size: 42px;
 }
+
+h3 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
